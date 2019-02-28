@@ -15,6 +15,9 @@ import org.springframework.cloud.netflix.eureka.server.EnableEurekaServer;
 public class EurekaServer7003_App {
     public static void main(String[] args) {
         System.out.println("ni bu hao a ");
+        System.out.println("ni bu hao a ");
+        System.out.println("ni bu hao a ");
+        System.out.println("ni bu hao a ");
         SpringApplication.run(EurekaServer7003_App.class,args);
     }
 }
