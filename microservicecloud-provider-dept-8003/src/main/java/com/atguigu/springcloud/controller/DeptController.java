@@ -23,6 +23,7 @@ public class DeptController {
 
     @PostMapping("/dept/add")
     public boolean add(Dept dept){
+        System.out.println("nihaoa");
         return deptService.add(dept);
     }
 
