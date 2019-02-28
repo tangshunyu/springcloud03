@@ -19,6 +19,8 @@ public class EurekaServer7003_App {
         System.out.println("ni bu hao a ");
         System.out.println("ni bu hao a ");
         System.out.println("ni bu hao a ");
+        System.out.println("ni bu hao adfd ");
+        System.out.println("ni bu hao a dfsdfsdfsdf");
         SpringApplication.run(EurekaServer7003_App.class,args);
     }
 }
